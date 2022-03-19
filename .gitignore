@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Game-Data-Preprocessing/data-out/*
+Hand-Classication-Model/pickled_models/*
